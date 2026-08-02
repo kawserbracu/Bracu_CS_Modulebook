@@ -4,3 +4,6 @@ Firstly, our university don't provide any modulebook, but German universities so
 
 As our university run in open credit system, you may need to modify. I have added only my subjects. All the information I have added are checked. Yet if you find any anomaly, don't feel shy to dm me.
 Thus the editable doc file is given too.
+
+Many of the universities want only Math Modulebook. Thus I have added one too. I have got offer letter from TU Dortmund using this module. So, you can use it too.
+I haven't found my latex code regarding the modulebook, If I find it, I'd add it in the repository.
